@@ -1,1 +1,1 @@
-My edited first readme
+Ekomobong first readme
